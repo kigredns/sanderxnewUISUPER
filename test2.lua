@@ -64,7 +64,7 @@ function Lib.Window(Title)
 
 	--Properties:
 
-	UiLib.Name = "Sander X | Brookhaven RP | Executor: " .. exploitName,
+	UiLib.Name = "Sander X | Brookhaven RP |"
 	UiLib.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 	UiLib.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
